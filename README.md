@@ -1,5 +1,3 @@
-# treinamentogulp-code
-
 ##Treinamento Equipe VmlBrazil
 
 #### Usage
